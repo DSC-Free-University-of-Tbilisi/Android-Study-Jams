@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="dark_theme"> Switch To Dark Theme </string>
+    <string name="light_theme"> Switch To Light Theme </string>
+
+    <string name="PLUS"> + </string>
+    <string name="MINUS"> - </string>
+    <string name="MULTIPLY"> x </string>
+    <string name="EVAL_MULTIPLY"> * </string>
+    <string name="DIVIDE"> / </string>
+    <string name="REMINDER"> % </string>
+    <string name="EQUAL"> = </string>
+    <string name="AC"> AC </string>
+    <string name="PLUS_AND_MINUS"> +/- </string>
+    <string name="INVALID_SYNTAX"> invalid syntax </string>
+
+    <string name="INPUT_KEY"> input_key </string>
+    <string name="OUTPUT_KEY"> output_key </string>
+    <string name="THEME_KEY"> theme_key </string>
+</resources>
